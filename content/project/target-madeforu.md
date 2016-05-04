@@ -7,7 +7,6 @@ title = "Target Made For U"
 
 +++
 
-
 Target has a major effort behind the back-to-school timeframe every year. Many students, parents and those buying for kids moving to college, rely on Target for stylish, affordable and fun college accessories.
 
 Deutsch LA envisioned a new kind of tool for prospective college students planning their first dorm room. Heading to college is an uncomfortable time for many college kids. Questions surface like 'What's my roommate going to be like?' and 'how do I do laundry?'. Because of this discomfort, Deutsch designed a new platform for showing college kids how amazing their new environment can be, and help break the ice with their new roommate. Target College Styler is a tool that allows you to connect your social media account, answer some simple quiz questions, and get amazing suggestions for what their space could look like and how they could vibe with their new roommate.
